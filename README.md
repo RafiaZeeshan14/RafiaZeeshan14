@@ -1,19 +1,19 @@
 ![logo](https://github.com/RafiaZeeshan14/RafiaZeeshan14/assets/141746940/95033bbb-63a3-491d-ae6f-65ef84ecc6f5)
 # <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Rafia Zeeshan 👨‍💻</h1>
-<h3 align="center">Computer Science Student | Front-end Web Developer |   </h3>
+<h3 align="center">Computer Science Student | Web Developer |   </h3>
 
 <br>
 
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" />
 
 
-- 📱 I’m currently learning **FrontEnd Development**
+- 📱 I’m currently mastering **MERN Stack Development**
 
 - 🤝 Open for collaborations in **Web development 🕸️**
 
 - 💻 I love exploring **new tech stack and building cool stuffs.**
 
-- 🥅 2024 Goals: **Being Fluent in Full Stack Development.**
+- 🥅 2025 Goals: **Being Fluent in Full Stack Development.**
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafiazeeshan14&label=Profile%20views&color=0e75b6&style=flat" alt="rafiazeeshan14" /> </p>
